@@ -1,9 +1,5 @@
 # Wearable Infant Heart Rate & Oxygen Monitor
 **Arduino-based biosensor system for continuous cardiac monitoring in infants with Congenital Heart Disease (CHD)**
-
-> Academic Design Project — Illinois Institute of Technology | BME 100 | Aug – Dec 2024
-> 5-person team | 32+ design sessions | 2 circuit iterations | 1 functional prototype
-
 ---
 
 ## Overview
